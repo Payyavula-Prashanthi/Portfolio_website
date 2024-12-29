@@ -1,0 +1,145 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    
+}
+
+.container {
+    position: absolute;
+    top: 5cm; 
+    left: 5cm; 
+}
+
+.h1 {
+    margin: 0;
+    color: whitesmoke;
+}
+
+
+span{
+    color:yellowgreen;
+}
+.navigation {
+    margin-top: 20px;
+}
+
+.navigation a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.navigation a:hover {
+    color: green;
+}
+
+.social-icons {
+    margin-top: 20px;
+}
+
+.social-icons a {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+    font-size: 24px;
+}
+
+.social-icons a:hover {
+    color: green;
+}
+
+.content {
+    position: absolute;
+    top: 10cm;
+    left: 20px;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+.navigation {
+    margin-top: 20px;
+}
+
+.navigation a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.navigation a:hover {
+    color: green;
+}
+
+.social-icons {
+    margin-top: 20px;
+}
+
+.social-icons a {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+    font-size: 24px;
+}
+
+.social-icons a:hover {
+    color: green;
+}
+
+.contact-section {
+    margin-top: 30cm; 
+    padding: 40px;
+}
+
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 9cm;
+  }
+
+
+
+.content {
+    flex: 3; 
+}
+
+.para{
+    color: chartreuse;
+}
+
+.navbar-container {
+    width: 30cm; /* Set the width of the container in centimeters */
+    margin: 0 auto;
+    padding-top: 20px; /* Top margin for the container */
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #333;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+}
+
+.navbar a:hover {
+    background-color: #575757;
+}
+
